@@ -1,17 +1,18 @@
 [
   {
     "imgSrc": "https://raw.githubusercontent.com/Sumansourabh14/road-story/refs/heads/main/public/images/image-1.png",
-    "alt": "Road Storyy web platform",
+    "alt": "BuiltByDevs",
     "projectName": "BuiltByDevs",
     "technologies": [
       "Next.js 15",
       "shadcn/ui",
+      "Tailwind",
       "MongoDB",
-      "JWT"
+      "JWT Auth"
     ],
-    "description": "A road safety focused web community platform. Users can upload any dashcam, CCTV or normal video on road safety to spread awareness.",
-    "projectLink": "https://road-story.vercel.app/",
-    "githubLink": "https://github.com/Sumansourabh14/road-story"
+    "description": "A community-powered platform where developers from around the world can submit and showcase their portfolios. No fluff, no fees—just real work by real devs. Submitted portfolios are manually reviewed and published after approval.",
+    "projectLink": "https://builtbydevs.vercel.app/",
+    "githubLink": "https://github.com/Sumansourabh14/builtbydevs"
   },
   {
     "imgSrc": "https://raw.githubusercontent.com/Sumansourabh14/road-story/refs/heads/main/public/images/image-1.png",
@@ -23,7 +24,7 @@
       "MongoDB",
       "JWT"
     ],
-    "description": "A road safety focused web community platform. Users can upload any dashcam, CCTV or normal video on road safety to spread awareness.",
+    "description": "A road safety focused web community platform. Includes road safety course as well. Users can upload any dashcam, CCTV or normal video on road safety to spread awareness.",
     "projectLink": "https://road-story.vercel.app/",
     "githubLink": "https://github.com/Sumansourabh14/road-story"
   },
