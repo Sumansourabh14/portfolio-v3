@@ -44,20 +44,6 @@
   },
   {
     "imgSrc": "https://raw.githubusercontent.com/Sumansourabh14/road-story/refs/heads/main/public/images/image-1.png",
-    "alt": "Vocab Saga",
-    "projectName": "Vocab Saga",
-    "technologies": [
-      "React",
-      "shadcn/ui",
-      "MongoDB",
-      "JWT"
-    ],
-    "description": "A road safety focused web community platform. Users can upload any dashcam, CCTV or normal video on road safety to spread awareness.",
-    "projectLink": "https://road-story.vercel.app/",
-    "githubLink": "https://github.com/Sumansourabh14/road-story"
-  },
-  {
-    "imgSrc": "https://raw.githubusercontent.com/Sumansourabh14/road-story/refs/heads/main/public/images/image-1.png",
     "alt": "Road Storyy web platform",
     "projectName": "Road Storyy",
     "technologies": [
