@@ -5,6 +5,7 @@
     "projectName": "BuiltByDevs",
     "technologies": [
       "Next.js 15",
+      "TypeScript",
       "shadcn/ui",
       "Tailwind",
       "MongoDB",
@@ -20,6 +21,7 @@
     "projectName": "Roadha",
     "technologies": [
       "Next.js 15",
+      "TypeScript",
       "shadcn/ui",
       "MongoDB",
       "JWT"
@@ -34,6 +36,7 @@
     "projectName": "Magart",
     "technologies": [
       "Next.js 15",
+      "TypeScript",
       "shadcn/ui",
       "MongoDB",
       "JWT"
@@ -48,6 +51,7 @@
     "projectName": "Road Storyy",
     "technologies": [
       "Next.js 15",
+      "JavaScript",
       "shadcn/ui",
       "Node.js",
       "Express",
@@ -66,6 +70,7 @@
     "projectName": "MovieDB - Database for Movies",
     "technologies": [
       "React",
+      "JavaScript",
       "Tailwind CSS",
       "Firebase",
       "Axios",
