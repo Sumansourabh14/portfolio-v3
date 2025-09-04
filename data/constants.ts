@@ -4,7 +4,7 @@ export const SITE_METADATA = {
 };
 
 export const RESUME_LINK =
-  "https://drive.google.com/file/d/13TUwADbZiZFCvz1kVKFD2Jz-Sxkf0mCA/view?usp=sharing";
+  "https://drive.google.com/file/d/1ZlLS4EYrRN_2GCwAC4_G9im3oBgRo33q/view?usp=sharing";
 
 export const menuOptions = [
   {
